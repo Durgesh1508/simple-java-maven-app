@@ -28,7 +28,7 @@ pipeline {
         }
          stage('Complete Durgesh') {
             steps {
-                echo 'Job Complete!'
+                echo 'Job Complete!.My multibracnh pipeleine'
             }
         }
     }
